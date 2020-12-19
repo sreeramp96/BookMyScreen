@@ -1,0 +1,15 @@
+body {
+	font-family: 'EB Garamond', serif;
+
+}
+
+.footer {
+	background: #184e8e;
+	padding: 15px 0 29px 0;
+}
+
+.text {
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}

@@ -1,0 +1,25 @@
+section {
+	background-color: #dee9ff;
+	font-family: 'EB Garamond', serif;
+}
+
+.card-group {
+	padding: 15px;
+}
+
+.card1,
+.card2,
+.card3 {
+	margin-right: 5px;
+}
+
+img {
+	width: 300px;
+	height: 350px;
+}
+
+.card-title {
+	font-size: 22px;
+	font-weight: bold;
+	text-align: center;
+}
